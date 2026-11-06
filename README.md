@@ -15,14 +15,14 @@ Este desafio exige implementar com estas restrições:
 
 ## Desenvolvimento
 
--   [ ] Inserir até 8 dígitos binários em um único campo de entrada
--   [ ] Notificar caso inserido qualquer valor que não seja `0` ou `1`
--   [ ] Visualizar os resultados em um único campo de saída contendo o equivalente decimal (base 10) do número binário inserido
+-   [X] Inserir até 8 dígitos binários em um único campo de entrada
+-   [X] Notificar caso inserido qualquer valor que não seja `0` ou `1`
+-   [X] Visualizar os resultados em um único campo de saída contendo o equivalente decimal (base 10) do número binário inserido
 
 
 ## Recursos adicionais
 
--   [ ] Inserir um número variável de dígitos binários
+-   [ ] Converter valor decimal para binário
 
 ## Links e recursos úteis
 

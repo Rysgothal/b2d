@@ -15,14 +15,14 @@ This challenge requires implementation with the following constraints:
 
 ## Implementation
 
--   [ ] Allow the entry of up to 8 binary digits in a single input field
--   [ ] Issue a notification if any value other than `0` or `1` is entered
--   [ ] Display the results in a single output field containing the decimal (base 10) equivalent of the entered binary number
+-   [X] Allow the entry of up to 8 binary digits in a single input field
+-   [X] Issue a notification if any value other than `0` or `1` is entered
+-   [X] Display the results in a single output field containing the decimal (base 10) equivalent of the entered binary number
 
 
 ## Additional Resources
 
--   [ ] Enter a variable number of binary digits
+-   [ ] Convert decimal value to binary 
 
 ## Useful Links and Resources
 
