@@ -1,0 +1,13 @@
+/shelf/
+/workspace.xml
+/markdown.xml
+/httpRequests/
+/queries/
+/dataSources/
+/dataSources.local.xml
+
+./idea
+/b2d.iml
+/go.imports.xml
+/modules.xml
+/vcs.xml

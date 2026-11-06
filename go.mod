@@ -1,0 +1,3 @@
+module b2d
+
+go 1.27.3
