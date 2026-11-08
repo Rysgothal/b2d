@@ -1,5 +1,4 @@
 package converter
-
 import "math"
 
 func Binary(value string) int {
