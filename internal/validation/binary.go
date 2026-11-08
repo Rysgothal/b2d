@@ -1,5 +1,4 @@
 package validation
-
 import "errors"
 
 func Binary(value string) error {
